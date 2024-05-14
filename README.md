@@ -1,4 +1,4 @@
-# Building the Borrower Compass
+# Building the Borrower Compass 🗺️
 
 
 ## Introduction 👩‍💻
