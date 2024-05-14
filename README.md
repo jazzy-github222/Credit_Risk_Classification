@@ -11,7 +11,7 @@ If yes, then great this is for you!
 If not, then congragulations you're about to learn the financial advice they didn't teach you in school but you wish you knew!
 
 ## Background 🌅
-Listen up, team. We're embarking on a project unlike any other. We're ditching the dusty old loan approval methods and storming the frontier of peer-to-peer lending. Here, we become the architects of dreams, wielding historical lending data like a financial Excalibur.
+We're ditching the dusty old loan approval methods and storming the frontier of peer-to-peer lending.
 
 This project is about crafting a model so sophisticated, it can identify a borrower's creditworthiness with laser focus. We're talking cutting-edge techniques – algorithms so sharp they'll separate the diamonds in the rough from the pretenders with surgical precision. Responsible lending fueling innovation, bad debt left whimpering in the corner – that's the power we're wielding.
 
