@@ -18,7 +18,11 @@ This project is about crafting a model so sophisticated, it can identify a borro
 This is our opportunity to become the financial masters, ensuring **responsible risk management** while unleashing the potential of deserving borrowers. So, are you ready to step up and become the financial mastermind you were always meant to be? Let's do this.
 
 ## Analysis 🔍
+1. The model achieves near-perfect **precision (1.00)** for **healthy loans**, indicating it avoids classifying bad loans as good. However, the precision for high-risk loans (0.85) is lower. This suggests the model might be more likely to misclassify a good loan as risky (false positive) for high-risk loans compared to healthy loans.
 
+2. Despite the potential for improvement with **high-risk loans**, the overall accuracy of 0.99 signifies a very strong model. It correctly classifies nearly all loans (both **healthy and risky**) in the test set.
+
+3.  The recall values are high for both **healthy (0.99) and high-risk loans (0.91)**. This means the model misses very few actual **healthy** or **high-risk loans**, demonstrating its effectiveness in identifying both types of loans.
 
 ## Happy Coding 🎉
 ![i](https://images.unsplash.com/photo-1556742111-a301076d9d18?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGJhbmtpbmd8ZW58MHwwfDB8fHwy)
